@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Owajx2GxMHTI/vMU92uTfZKYltOjw6GdVsSMuk7MdFzvpzZgHUZuE88G97bow19PXkOf2clTg+XYMbhE9XVm0g==",
+  "dgSpecHash": "Vi7ds8SJHpcC09yHFAUHDnnJZ7YqU+0zpvYHnBk4jOANtlt8gJ7LWhnLsycG7gpZgb0wkX2MriTR4qS+4KrSfQ==",
   "success": true,
-  "projectFilePath": "\\\\vmware-host\\Shared Folders\\Desktop\\repos\\csharp-31\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/jarmstrong/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatements.csproj",
+  "expectedPackageFiles": [
+    "/Users/jarmstrong/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/jarmstrong/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/jarmstrong/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
